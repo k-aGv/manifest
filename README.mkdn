@@ -5,17 +5,19 @@ Click the desired repository and press the 'Download ZIP' button.
 AGV folder and .sln file has got to be on same directory
 
 How to download:
-    First,download k-agv repository
-    extract it to your working directory
-    Download AGV repository and extract it INSIDE k-agv-master folder.
-    Run .sln
-    If you use a newer version of Visual Studio a pop-up window will appear.
-    Simply press ''next'' to let it convert the sln file.
+
+            First,download k-agv repository
+            extract it to your working directory
+            Download AGV repository and extract it INSIDE k-agv-master folder.
+            Run .sln
+            If you use a newer version of Visual Studio a pop-up window will appear.
+            Simply press ''next'' to let it convert the sln file.
 
 How to compile:
-    Download VC# Studio 2010 or later.
-    Run solution file and simply build project.
-    Supposed to be compilation-error free.
+
+            Download VC# Studio 2010 or later.
+            Run solution file and simply build project.
+            Supposed to be compilation-error free.
 
 Executable directory:
 AGV/bin/Debug/AGV.exe
