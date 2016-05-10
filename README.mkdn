@@ -1,0 +1,65 @@
+# Get our sources and compile
+
+Get both repositories(AGV and k-aGv) to your local directory by downloading as ZIP
+Click the desired repository and press the 'Download ZIP' button.
+AGV folder and .sln file has got to be on same directory
+
+How to download:
+    First,download k-agv repository
+    extract it to your working directory
+    Download AGV repository and extract it INSIDE k-agv-master folder.
+    Run .sln
+    If you use a newer version of Visual Studio a pop-up window will appear.
+    Simply press ''next'' to let it convert the sln file.
+
+How to compile:
+    Download VC# Studio 2010 or later.
+    Run solution file and simply build project.
+    Supposed to be compilation-error free.
+
+Executable directory:
+AGV/bin/Debug/AGV.exe
+
+
+Linux users:
+Wine emulator + winetricks libraries for drawings should easily run this .exe
+
+    sudo apt-get install wine
+  
+    sudo apt-get install winetricks
+
+#Feel feel to contribute.
+If you want to contribute to our project please
+get familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
+
+#Pt.1 Join us
+
+Firstly,create a new github account.Its free and short process.
+Then,let us know that you want to contribute by sending an email to
+johnmenex@gmail.com
+or
+dkatikaridis@gmail.com
+asking for contribution.We will send you an invitation.
+
+Once you accept the invitation get github for desktop
+
+      https://github-windows.s3.amazonaws.com/GitHubSetup.exe
+
+Download and install the setup
+Run GitHub and login with your account.
+Press on the blue cross top left and CLONE our repo
+by selecting 
+
+        k-aGv   - AGV
+                - k-agv
+                - manifest
+                - PaintTests
+
+one by one.This will sync all the online-sources locally to your PC.
+
+#Pt.2 . Adding,commiting and pushing
+Simply make your change locally and github enviroment will recognize the changes.
+Press on COMMIT button and then press on Sync button ,top right
+Thats it!
+
+
