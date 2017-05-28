@@ -52,10 +52,8 @@ Run GitHub and login with your account.
 Press on the blue cross top left and CLONE our repo
 by selecting 
 
-        k-aGv   - AGV
-                - k-agv
-                - manifest
-                - PaintTests
+        k-aGv   - industrial
+                - agriculture
 
 one by one.This will sync all the online-sources locally to your PC.
 
